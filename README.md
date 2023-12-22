@@ -37,7 +37,7 @@ To set up the Maternal Health Risk Prediction Web App locally, follow these step
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/<YourUsername>/maternal-health-web-app.git
+   git clone https://github.com/403ENDer/Maternal_health_risk_prediction-webapp.git
    ```
 
 2. Open the project directory in your preferred integrated development environment (IDE) for Java.
